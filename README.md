@@ -28,5 +28,7 @@ Includes methods to calculate the average grade and manage student data.
 
 ### 📚 Concepts Demonstrated
 Object-Oriented Programming (OOP) principles.
+
 Array handling and mathematical calculations.
+
 User-friendly UI with JOptionPane.
